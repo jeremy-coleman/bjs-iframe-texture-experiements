@@ -1,0 +1,25 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "dependencies": {
+    "@babylonjs/core": "^5.0.0-beta",
+    "@babylonjs/inspector": "^5.0.0-beta",
+    "@babylonjs/materials": "^5.0.0-beta",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-babylonjs":"3.0.31",
+    "simplex-noise": "^3.0.1",
+    "vue": "3.2.31"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.13",
+    "parcel": "latest"
+  }
+}

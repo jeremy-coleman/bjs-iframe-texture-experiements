@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "jsx": "react-jsx",
+    "allowSyntheticDefaultImports": true,
+    "target": "es2019",
+    "module": "esnext",
+    "strict": false,
+    "baseUrl": "src",
+    "lib": ["dom", "esnext", "webworker"]
+  }
+}
