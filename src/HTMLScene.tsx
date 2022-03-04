@@ -44,7 +44,8 @@ function WithHtmlText() {
         <Html name="html" center occlude={false}>
           {
             <iframe
-              src="https://www.framevr.io"
+              //src="https://www.framevr.io"
+              src="https://docs.google.com/presentation/d/1Q-RCJrZhw9nlZ5py7QxUVgKSyq61awHr2TyIjXxBmI0/edit#slide=id.g10c3f09cda1_0_238"
               style={{
                 backgroundColor: "white",
                 borderRadius: "5px",
